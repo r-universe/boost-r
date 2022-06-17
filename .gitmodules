@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gamboostLSS"]
+	path = gamboostLSS
+	url = https://github.com/boost-r/gamboostlss
+	shallow = true
+	registered = true
+[submodule "mboost"]
+	path = mboost
+	url = https://github.com/boost-r/mboost
+	shallow = true
+	registered = true
