@@ -1,5 +1,9 @@
 [
   {
+    "package": "FDboost",
+    "oncran": true
+  },
+  {
     "package": "gamboostLSS",
     "oncran": true
   },
