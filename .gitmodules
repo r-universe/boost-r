@@ -8,3 +8,8 @@
 	url = https://github.com/boost-r/gamboostlss
 	shallow = true
 	registered = true
+[submodule "mboost"]
+	path = mboost
+	url = https://github.com/boost-r/mboost
+	shallow = true
+	registered = true
