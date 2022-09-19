@@ -2,9 +2,5 @@
   {
     "package": "gamboostLSS",
     "oncran": true
-  },
-  {
-    "package": "mboost",
-    "oncran": true
   }
 ]
