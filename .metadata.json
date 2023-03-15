@@ -1,10 +1,10 @@
 [
   {
-    "package": "gamboostLSS",
+    "package": "FDboost",
     "oncran": true
   },
   {
-    "package": "FDboost",
+    "package": "gamboostLSS",
     "oncran": true
   },
   {
